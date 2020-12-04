@@ -1,0 +1,16 @@
+REACT
+React is a JavaScript library for building user interfaces
+
+1. COMPONENTS
+Components are the main building block of React 
+
+2. STATE
+State is how data is maintained/changed in a react component
+
+3. TYPES OF COMPONENTS
+3A. CLASS OF COMPONENTS
+A Class Component is a Component created using a JavaScript Class
+3B. FUNCTION COMPONENTS
+A Function Component is a Component crated using a JavaScript Function
+Function components use React Hooks
+Function Components are the best way to create React Components
