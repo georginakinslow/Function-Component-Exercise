@@ -1,0 +1,18 @@
+/* 4b. */
+
+.class {
+    border: solid, 10px ,#121f56;
+    width: 500px;
+    padding: 10px;
+    margin top, bottom: 0;
+    margin left, right: auto;
+    background-color: #1d3e8d;  
+}
+
+.h1: first-of-type {
+    color: rgba(255, 255, 255, 0.9);
+/* 4c. */
+text-align: center;
+}
+
+
